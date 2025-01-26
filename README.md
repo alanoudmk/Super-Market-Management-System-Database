@@ -11,6 +11,7 @@
   - Relational Schema
   - Functional Dependencies
   - Normalization
+  - SQL Guideline Table
 
 ****
 
